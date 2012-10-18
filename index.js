@@ -1,5 +1,3 @@
-// forked from 9leap's "enchant.js Action Game Sample" http://jsdo.it/9leap/action-sample
-// forked from Event's "enchant.js action example" http://jsdo.it/Event/enchant.js_action
 enchant();
 
 window.onload = function() {
